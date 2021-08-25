@@ -1,0 +1,560 @@
+body {
+    margin: 0;
+  }
+  
+  .uul {
+    color: #7f8c8d;
+    margin-top:0;
+  
+  
+  
+  
+  }
+  button{
+    font-family: Avenir-Next,Roboto,sans-serif;
+  }
+  
+  .lli {
+    list-style-type:none;
+    display:inline-block;
+    font-family: Avenir-Next,Roboto,sans-serif;
+    padding-left:30px;
+    padding-right:30px;
+    position:relative;
+    style-type:none;
+    bottom:12px;
+  }
+  .llii
+  {
+    list-style-type:none;
+    display:inline-block;
+    font-family: Avenir-Next,Roboto,sans-serif;
+    padding-left:30px;
+    padding-right:30px;
+    position:relative;
+    style-type:none;
+  
+  }
+  .lli:hover .sub-menu
+  
+  {
+    opacity:1;
+  
+  }
+  .sub-menu
+  {
+    background-color:#424242;
+    list-style-type: none;
+    position:absolute;
+    padding-left:0;
+    width:100px;
+    margin-left:-25px;
+    padding-top:5px;
+    opacity:0;
+  }
+  .sub-li
+  {
+    padding-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  
+  .flag {
+    height: 11px;
+    width: 13px;
+    margin-right: 0;
+  }
+  
+  
+  
+  .edyst-logo {
+  
+    height: 35px;
+    width: 100px;
+  }
+  
+  
+  .loli {
+    color: #7f8c8d;
+    float: left;
+    margin-left:-45px;
+    margin-top:14px;
+    padding-right: 115px;
+  }
+  
+  .llibtn {
+    height: 25px;
+    width: 120px;
+    border: none;
+    color: #fff;
+    margin-top: 7px;
+    margin-right: 1px;
+    background-color: #DE713A;
+  }
+  
+  nav {
+    border: 0;
+    margin: 0;
+    height: 65px;
+    width: 100%;
+  }
+  
+  .centered {
+    background-color: #000000b3;
+    padding-bottom: 150px;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  .main_content {}
+  
+  .apply_button {
+    height: 50px;
+    border: none;
+    color: #fff;
+    background-color: #4992ca;
+    display: block;
+    margin-bottom: 18px;
+    width: 230px;
+  }
+  
+  .schedule {
+    height: 60px;
+    border-color: #fff;
+    color: #fff;
+    background-color: #ffffff00;
+    display: block;
+    margin-bottom: 18px;
+    width: 230px;
+  }
+  
+  .overlay {}
+  
+  .learnmore {
+    border-radius: 15px;
+    padding: 15px;
+  }
+  
+  h1 {
+    font-size: 90px;
+    margin-top: 0;
+    color: white;
+  }
+  
+  .container {
+    padding-bottom: 0;
+    font-family: Avenir-Next, Roboto, sans-serif;
+    background-image: url('https://i.imgur.com/ksqOx5F.jpg');
+  }
+  
+  h3 {
+    font-size: 33px;
+    color: white;
+  }
+  
+  h2 {
+    padding-top: 50px;
+    font-size: 45px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+  }
+  
+  h4 {
+    font-size: 30px;
+    padding-top: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+  }
+  
+  h6 {
+    font-size: 18px;
+  }
+  
+  .pokemon-masters {
+    background-color: #4992ca;
+    color: white;
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .withoutdiv {
+    color: white;
+    text-align: center;
+    padding: 10px 240px 0 240px;
+  }
+  
+  .main {
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 50px;
+  }
+  
+  .mainone {
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 50px;
+  }
+  
+  .chotiimages {
+    text-align: center;
+  }
+  
+  .box1 {
+    padding: 0 10px 0 150px;
+    text-align: center;
+  }
+  
+  .box2 {
+    text-align: center;
+  }
+  
+  .box3 {
+    padding: 0 150px 0 10px;
+    text-align: center;
+  }
+  
+  i {
+    color: white;
+    font-size: 50px;
+  }
+  
+  .black-main_heading {
+    color: black;
+  }
+  
+  .statistics-on-pokemon-go {
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .main-statistics-on-pokemon-go {}
+  
+  .box4 {
+    padding: 0 20px 0 150px;
+    text-align: center;
+  }
+  
+  .box5 {
+    padding: 0 150px 0 20px;
+    text-align: center;
+  }
+  
+  .masters-para {
+    padding: 10px 150px 10px 150px;
+    text-align: center;
+  }
+  
+  .inside-masters-para-para {
+    text-align: center;
+    padding: 10px 40px 10px 40px;
+  }
+  
+  .Q-and-A {
+    background-color: #4992ca;
+    color: white;
+    padding-bottom: 60px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .pokemon-of-the-year-revealed {
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .Q-and-A-heading {}
+  
+  .pokemon-battles {
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  td,
+  th {
+    text-align: center;
+    border: 1px solid;
+    border-color: #dddddd;
+    padding: 12px;
+  }
+  
+  .roww {
+    color: #8a8a8a;
+  }
+  
+  .mainone {
+    border-collapse: collapse;
+    line-height: 2;
+  }
+  
+  .pokemon-battles-secondary-div {
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+  
+  .buy-now {
+    height: 45px;
+    width: 200px;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    font-family: Avenir-Next, Roboto, sans-serif;
+    background-color: #4992ca;
+    margin-bottom: 18px;
+  }
+  
+  .click-here {
+    height: 45px;
+    width: 230px;
+    font-weight: bold;
+    border-color: #fff;
+    color: #fff;
+    background-color: #ffffff00;
+    margin-top: 20px;
+    margin-bottom: 18px;
+  }
+  
+  .want-to-know-more {
+    text-align: center;
+    background-color: #424242;
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .pokemon-card {
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .cards {
+    width: 228px;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    margin: 8px;
+  }
+  
+  .cards-sub-heading {
+    font-weight: 200;
+  
+    height: 45px;
+    color: #3c3333;
+    text-align: left;
+    font-size: 2rem;
+    line-height: 1.2;
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .cards-body {
+    padding: 10px;
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .cards-header {
+    margin-bottom: 0;
+    border-bottom: 1px solid;
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .cardss_container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  .cards-sub-heading {
+    font-weight: 700;
+  }
+  
+  .cards-text {
+    line-height: 24px;
+  
+    text-align: center;
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .cards-header {
+    color: rgba(0, 0, 0, 0.125);
+    background-color: rgba(0, 0, 0, 0.03);
+    border-top: 16px;
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+    border-top-color: #4992ca;
+  }
+  
+  .cards-sub-heading {
+    font-weight: 700;
+  }
+  
+  .lets-know-about-trainers {
+    background-color: #4992ca;
+    color: white;
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .generation-cards {
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .card {
+    width: 408px;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    margin: 8px;
+  }
+  
+  .card-sub-heading {
+    font-weight: 200;
+    height: 45px;
+    color: #3c3333;
+    text-align: left;
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+  
+  .card-body {
+    padding: 10px;
+  }
+  
+  .card-header {
+    margin-bottom: 0;
+    border-bottom: 1px solid;
+    border-left: 0;
+    border-right: 0;
+  }
+  
+  .cards_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+  
+  .card-sub-heading {
+    font-weight: 700;
+  }
+  
+  .card-text {
+    line-height: 24px;
+    color: black;
+  }
+  
+  .card-header {
+    color: rgba(0, 0, 0, 0.125);
+    background-color: rgba(0, 0, 0, 0.03);
+    border-top: 16px;
+    border-style: solid;
+    border-top-color: #4992ca
+  }
+  
+  .card-sub-heading {
+    font-weight: 700;
+  }
+  
+  .enter-email-to-sub {
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  #email {
+    font-family: Avenir-Next, Roboto, sans-serif;
+    height: 39px;
+    width: 350px;
+    margin-top: 20px;
+    margin-bottom: 18px;
+  }
+  
+  .pokemon-games {
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .designers {
+    font-family: Avenir-Next, Roboto, sans-serif;
+    background-color: #4992ca;
+    text-align: left;
+    color: white;
+  }
+  
+  .logos {
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .logos-div {
+    display: flex;
+  }
+  
+  .want-to-know-more {
+    font-family: Avenir-Next, Roboto, sans-serif;
+    color: white;
+    background-color: #4992ca;
+  }
+  
+  .want-to-know-more-button {
+    height: 45px;
+    font-family: Avenir-Next, Roboto, sans-serif;
+    width: 230px;
+    font-weight: bold;
+    border-color: #fff;
+    color: #fff;
+    background-color: hsla(0, 0%, 0%, 0);
+    margin-top: 20px;
+    margin-bottom: 18px;
+  }
+  
+  .footer {
+    background-color: #00121B;
+    display: flex;
+  }
+  
+  .ul-headings {
+    color: #424242;
+    font-weight: 500;
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .u4l {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 500;
+    color: white;
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .ulp {
+    color: #424242;
+    text-align: center;
+    font-weight: 500;
+    font-family: Avenir-Next, Roboto, sans-serif;
+  }
+  
+  .l4i {
+    text-align: center;
+    line-height: 2;
+    font-size: 15px;
+  }
+  
+  .box10 {
+    margin: auto;
+    padding: 10px 40px 40px 150px;
+  }
+  
+  .box11 {
+    margin: auto;
+    padding: 10px 40px 40px 20px;
+  }
+  
+  .box12 {
+    margin: auto;
+    padding: 10px 40px 40px 20px;
+  }
+  
+  .box13 {
+    margin: auto;
+    padding: 10px 150px 40px 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
